@@ -1,0 +1,9 @@
+{
+  "name"          : "bigga",
+  "description"   : "Just because making strings longer doesn't help.",
+  "keywords"      : ["util"],
+  "author"        : "Rob Wells <robert@fragglebob.me>",
+  "repository"    : {"type": "git", "url": "git://github.com/fragglebob/bigga.git"},
+  "main"          : "bigga.js",
+  "version"       : "0.5"
+}
