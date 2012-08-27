@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/fragglebob/bigga.png)](http://travis-ci.org/fragglebob/bigga)
      _     _                   
     | |__ (_) __ _  __ _  __ _ 
     | '_ \| |/ _` |/ _` |/ _` |
